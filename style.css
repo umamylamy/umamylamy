@@ -3,13 +3,14 @@
 	margin-left: auto;
 	margin-right: auto;
 	width: 99%;
-	
+
 	#position: fixed;
 }
 body {
   background-image: url("other_background-image.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
+	background-size: cover;
 }
 
 body.paperBg {
@@ -41,7 +42,7 @@ iframe {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 1%;
-	
+
 	#position: fixed;
 	width: 99%;
 	height: 69%;
